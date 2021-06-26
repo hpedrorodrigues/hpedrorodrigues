@@ -26,3 +26,5 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hpedrorodrigues&color=blueviolet)
