@@ -5,14 +5,14 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 #### 👷 Check out what I'm currently working on
 
 - [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (4 days ago)
-- [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) -  (3 weeks ago)
+- [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - Repository to reproduce issue #27011 of Spring Framework (3 weeks ago)
 - [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (3 months ago)
 - [hpedrorodrigues/kafka-mirror-maker-poc](https://github.com/hpedrorodrigues/kafka-mirror-maker-poc) - This is a tiny project to help learn more about Kafka Mirror Maker (v1 and v2). (4 months ago)
 - [hpedrorodrigues/dlq-x9](https://github.com/hpedrorodrigues/dlq-x9) - DLQ-X9 sends a message in a Slack channel every time it detects a new message in an SQS DLQ. (4 months ago)
 
 #### 🌱 My latest projects
 
-- [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - 
+- [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - Repository to reproduce issue #27011 of Spring Framework
 - [hpedrorodrigues/kafka-mirror-maker-poc](https://github.com/hpedrorodrigues/kafka-mirror-maker-poc) - This is a tiny project to help learn more about Kafka Mirror Maker (v1 and v2).
 - [hpedrorodrigues/dlq-x9](https://github.com/hpedrorodrigues/dlq-x9) - DLQ-X9 sends a message in a Slack channel every time it detects a new message in an SQS DLQ.
 - [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/
@@ -38,3 +38,5 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift (3 weeks ago)
 - [cilynx/rtl88x2bu](https://github.com/cilynx/rtl88x2bu) - rtl88x2bu driver updated for current kernels. (1 month ago)
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. (1 month ago)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hpedrorodrigues&color=blueviolet)
