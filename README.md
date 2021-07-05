@@ -25,15 +25,15 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Fixing command clear-trash](https://github.com/hpedrorodrigues/sphynx/pull/132) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
-- [Updating Linuxbrew link](https://github.com/hpedrorodrigues/sphynx/pull/131) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
-- [[MacOS] Removing 1password](https://github.com/hpedrorodrigues/sphynx/pull/130) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
+- [Fixing command clear-trash](https://github.com/hpedrorodrigues/sphynx/pull/132) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
+- [Updating Linuxbrew link](https://github.com/hpedrorodrigues/sphynx/pull/131) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
+- [[MacOS] Removing 1password](https://github.com/hpedrorodrigues/sphynx/pull/130) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [Adding calculator function](https://github.com/hpedrorodrigues/sphynx/pull/129) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [Updating p2i dependencies](https://github.com/hpedrorodrigues/sphynx/pull/128) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator (4 days ago)
+- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator (5 days ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (1 week ago)
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (3 weeks ago)
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift (1 month ago)
