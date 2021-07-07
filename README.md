@@ -4,7 +4,7 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 👷 Check out what I'm currently working on
 
-- [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (1 day ago)
+- [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (2 days ago)
 - [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - Repository to reproduce issue #27011 of Spring Framework (1 month ago)
 - [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (3 months ago)
 - [hpedrorodrigues/kafka-mirror-maker-poc](https://github.com/hpedrorodrigues/kafka-mirror-maker-poc) - This is a tiny project to help learn more about Kafka Mirror Maker (v1 and v2). (4 months ago)
@@ -25,7 +25,7 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Adding file for AWS functions](https://github.com/hpedrorodrigues/sphynx/pull/133) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 day ago)
+- [Adding file for AWS functions](https://github.com/hpedrorodrigues/sphynx/pull/133) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (2 days ago)
 - [Fixing command clear-trash](https://github.com/hpedrorodrigues/sphynx/pull/132) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [Updating Linuxbrew link](https://github.com/hpedrorodrigues/sphynx/pull/131) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [[MacOS] Removing 1password](https://github.com/hpedrorodrigues/sphynx/pull/130) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
@@ -33,7 +33,7 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### ⭐ Recent Stars
 
-- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator (6 days ago)
+- [fluxcd/flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator (1 week ago)
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions. (2 weeks ago)
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals (3 weeks ago)
 - [cemolcay/MusicTheory](https://github.com/cemolcay/MusicTheory) - Universal music theory library for iOS, iPadOS, macOS, tvOS and watchOS in Swift (1 month ago)
