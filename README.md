@@ -5,8 +5,8 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 #### 👷 Check out what I'm currently working on
 
 - [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (1 day ago)
+- [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (1 day ago)
 - [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - Repository to reproduce issue #27011 of Spring Framework (1 month ago)
-- [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (3 months ago)
 - [hpedrorodrigues/kafka-mirror-maker-poc](https://github.com/hpedrorodrigues/kafka-mirror-maker-poc) - This is a tiny project to help learn more about Kafka Mirror Maker (v1 and v2). (4 months ago)
 - [hpedrorodrigues/dlq-x9](https://github.com/hpedrorodrigues/dlq-x9) - DLQ-X9 sends a message in a Slack channel every time it detects a new message in an SQS DLQ. (4 months ago)
 
@@ -25,11 +25,11 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
+- [Fixing awscli v2 installation](https://github.com/hpedrorodrigues/sphynx/pull/137) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (today)
+- [[K8S] Adding support to connect to a node using AWS SSM Agent](https://github.com/hpedrorodrigues/sphynx/pull/136) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (today)
 - [[K8S] Adding function to print colorized node status](https://github.com/hpedrorodrigues/sphynx/pull/135) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 day ago)
 - [Removing warnings about protocol buffers while retrieving metrics](https://github.com/hpedrorodrigues/sphynx/pull/134) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 day ago)
 - [Adding file for AWS functions](https://github.com/hpedrorodrigues/sphynx/pull/133) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (3 days ago)
-- [Fixing command clear-trash](https://github.com/hpedrorodrigues/sphynx/pull/132) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
-- [Updating Linuxbrew link](https://github.com/hpedrorodrigues/sphynx/pull/131) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 
 #### ⭐ Recent Stars
 
