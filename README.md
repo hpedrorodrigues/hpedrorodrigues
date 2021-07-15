@@ -4,8 +4,8 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 👷 Check out what I'm currently working on
 
-- [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (6 days ago)
-- [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (6 days ago)
+- [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) - There is no place like ~/ (1 week ago)
+- [hpedrorodrigues/homebrew-tools](https://github.com/hpedrorodrigues/homebrew-tools) -  (1 week ago)
 - [hpedrorodrigues/spring-example](https://github.com/hpedrorodrigues/spring-example) - Repository to reproduce issue #27011 of Spring Framework (1 month ago)
 - [hpedrorodrigues/kafka-mirror-maker-poc](https://github.com/hpedrorodrigues/kafka-mirror-maker-poc) - This is a tiny project to help learn more about Kafka Mirror Maker (v1 and v2). (4 months ago)
 - [hpedrorodrigues/dlq-x9](https://github.com/hpedrorodrigues/dlq-x9) - DLQ-X9 sends a message in a Slack channel every time it detects a new message in an SQS DLQ. (4 months ago)
@@ -25,10 +25,10 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Removing image and function &#34;eq&#34;](https://github.com/hpedrorodrigues/sphynx/pull/139) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
-- [Fixing topology command when a new instance is spinning up](https://github.com/hpedrorodrigues/sphynx/pull/138) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
-- [Fixing awscli v2 installation](https://github.com/hpedrorodrigues/sphynx/pull/137) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
-- [[K8S] Adding support to connect to a node using AWS SSM Agent](https://github.com/hpedrorodrigues/sphynx/pull/136) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (6 days ago)
+- [Removing image and function &#34;eq&#34;](https://github.com/hpedrorodrigues/sphynx/pull/139) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
+- [Fixing topology command when a new instance is spinning up](https://github.com/hpedrorodrigues/sphynx/pull/138) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
+- [Fixing awscli v2 installation](https://github.com/hpedrorodrigues/sphynx/pull/137) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
+- [[K8S] Adding support to connect to a node using AWS SSM Agent](https://github.com/hpedrorodrigues/sphynx/pull/136) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [[K8S] Adding function to print colorized node status](https://github.com/hpedrorodrigues/sphynx/pull/135) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 
 #### ⭐ Recent Stars
