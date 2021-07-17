@@ -25,8 +25,8 @@ I'm Pedro! I'm a Software Engineer based in São Paulo - 🇧🇷.
 
 #### 🔨 My recent Pull Requests
 
-- [Adding extensions &#34;Remote Containers&#34; and &#34;HCL&#34; to vscode](https://github.com/hpedrorodrigues/sphynx/pull/141) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 day ago)
-- [Fixing command &#34;kubernetes logs&#34; when there is a pending pod](https://github.com/hpedrorodrigues/sphynx/pull/140) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 day ago)
+- [Adding extensions &#34;Remote Containers&#34; and &#34;HCL&#34; to vscode](https://github.com/hpedrorodrigues/sphynx/pull/141) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (2 days ago)
+- [Fixing command &#34;kubernetes logs&#34; when there is a pending pod](https://github.com/hpedrorodrigues/sphynx/pull/140) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (2 days ago)
 - [Removing image and function &#34;eq&#34;](https://github.com/hpedrorodrigues/sphynx/pull/139) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [Fixing topology command when a new instance is spinning up](https://github.com/hpedrorodrigues/sphynx/pull/138) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
 - [Fixing awscli v2 installation](https://github.com/hpedrorodrigues/sphynx/pull/137) on [hpedrorodrigues/sphynx](https://github.com/hpedrorodrigues/sphynx) (1 week ago)
